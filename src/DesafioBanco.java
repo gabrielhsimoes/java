@@ -53,7 +53,6 @@ public class DesafioBanco {
                     System.out.println("Saldo atualizado R$ "+saldoAtual);
                 }
             } else if (op == 4){
-
                 System.out.println("Processo Finalizado!!");
             }
             else{
